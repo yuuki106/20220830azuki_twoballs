@@ -6,6 +6,10 @@
     list-style-type:none;
 }
 
+.phone-only{
+    display: none;
+}
+
 
 header{
     background-color: black;
